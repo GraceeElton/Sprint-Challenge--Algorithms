@@ -159,3 +159,14 @@ if __name__ == "__main__":
 
 # Change each line of pseudocode into actual code.
 # Test out our code and see if it is returning the outputs that we would expect.
+
+# okay this is the real one
+
+# first robot lets call him rob for short
+# Rob picks up 1 card the last one on the left
+# Rob then comapares the card to his right
+# after computing which card is less
+# Rob swaps them if needed
+# he countues to do this until the end of the list decrementing “the end of the list” by 1 each time).
+# do this until list is of length 1
+# then they should be sorted!
